@@ -1,3 +1,3 @@
 # Materialish-LinuxTheme
 Use as you please. 
-Uses resources from github.com/FezVrasta/bootstrap-material-design
+uses resources from Linux Mint Y Light theme. 
