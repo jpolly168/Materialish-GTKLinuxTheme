@@ -1,3 +1,7 @@
-# Materialish-LinuxTheme
+# Materialish-Linux Theme v3.0
+
+
+
 Use as you please. 
-Uses resources from github.com/FezVrasta/bootstrap-material-design
+Based off of Material Lock
+<a href="http://empyrianartforms.com > Empyrian Art Forms</a>
